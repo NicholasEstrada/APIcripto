@@ -3,7 +3,7 @@
     :construction:  Desenvolvimento de uma API para cripto  :construction:
 </h4>
 
-situação: não finalizado/cancelado `#rgb(255, 0, 0)`
+situação: não finalizado/cancelado [![Coverage Status](https://coveralls.io/repos/github/github/scientist/badge.svg?branch=master)](https://coveralls.io/github/github/scientist?branch=master)
 
 - Aprendizados desenvolvidos
 - `API`: aplicação de links e lógica JS na API [index](APIcripto/index.html)
