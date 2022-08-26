@@ -3,7 +3,7 @@
     :construction:  Desenvolvimento de uma API para cripto  :construction:
 </h4>
 
-situação: não finalizado/cancelado rgb(R,R,R)
+situação: não finalizado/cancelado `rgb(255,0,0)`
 
 - Aprendizados desenvolvidos
 - `API`: aplicação de links e lógica JS na API [index](APIcripto/index.html)
